@@ -1,5 +1,6 @@
 # CHL5230 Datathon 5: Predicting human motion using deep learning models
-Authors: Yi Qiao (Penny) Liu, Zhaoyu Ding, Kitty Chen
+Authors: Yi Qiao (Penny) Liu, Zhaoyu Ding, Kitty Chen <br>
+This project was completed as part of the CHL5230 course at the University of Toronto (2023).
 
 ## Introduction
 - This project investigates whether recurrent neural network (RNN) and long short-term memory (LSTM) models can recognize human activities using wearable sensor data, and examines which types of motion signals (sedentary vs dynamic) contribute more to activity recognition.
